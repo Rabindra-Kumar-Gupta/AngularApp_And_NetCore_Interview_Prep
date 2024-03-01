@@ -1,0 +1,6 @@
+@AngularApp_And_NetCore_Interview_Prep.Server_HostAddress = http://localhost:5226
+
+GET {{AngularApp_And_NetCore_Interview_Prep.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
